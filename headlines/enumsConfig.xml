@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<enumsConfig>
+  <enum name="statusType">
+    <value>publish</value>
+    <value>draft</value>
+    <value>archive</value>
+    <value>trash</value>
+  </enum>
+</enumsConfig>
