@@ -72,4 +72,22 @@
     <field name="status">publish</field>
     <field name="title">Rank 1</field>
   </doc>
+  <doc>
+    <field name="endTime">2018-10-05T00:05:00Z</field>
+    <field name="headlineOwner">martin.hablak@sk.ibm.com</field>
+    <field name="id">2448b100-867f-11e8-acae-35c197300100</field>
+    <field name="priority">2</field>
+    <field name="startTime">2018-09-05T00:05:00Z</field>
+    <field name="status">trash</field>
+    <field name="title">Another trashed item</field>
+  </doc>
+  <doc>
+    <field name="endTime">2018-08-05T00:05:00Z</field>
+    <field name="headlineOwner">roman.kitko@sk.ibm.com</field>
+    <field name="id">1998b100-867f-11e8-acae-35c197300100</field>
+    <field name="priority">4</field>
+    <field name="startTime">2018-07-05T00:05:00Z</field>
+    <field name="status">draft</field>
+    <field name="title">Another draft iten</field>
+  </doc>
 </add>
