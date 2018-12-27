@@ -7,6 +7,6 @@ services:
       dockerfile: ./Dockerfile
     image: w3-braodcast-solr
     ports:
-    - "8983:8983"
+      - "8983:8983"
     volumes:
       - ./headlines:/opt/solr/server/solr/headlines/conf
