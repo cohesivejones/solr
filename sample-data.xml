@@ -21,7 +21,6 @@
     <field name="headlineOwner">roman.kitko@sk.ibm.com</field>
     <field name="id">1738b100-867f-11e8-acae-35c197300100</field>
     <field name="priority">1</field>
-    <field name="pinned"></field>
     <field name="startTime">2018-06-05T00:05:00Z</field>
     <field name="status">publish</field>
     <field name="title">Sample headline</field>
@@ -31,7 +30,6 @@
     <field name="headlineOwner">roman.kitko@sk.ibm.com</field>
     <field name="id">1458b100-867f-11e8-acae-35c197300100</field>
     <field name="priority">1</field>
-    <field name="pinned"></field>
     <field name="startTime">2018-07-05T00:05:00Z</field>
     <field name="status">draft</field>
     <field name="title">Another sample headline</field>
@@ -41,7 +39,6 @@
     <field name="headlineOwner">martin.hablak@sk.ibm.com</field>
     <field name="id">1338b100-867f-11e8-acae-35c197300100</field>
     <field name="priority">3</field>
-    <field name="pinned"></field>
     <field name="startTime">2018-08-05T00:05:00Z</field>
     <field name="status">archive</field>
     <field name="title">Whats this about headlines</field>
@@ -51,7 +48,6 @@
     <field name="headlineOwner">martin.hablak@sk.ibm.com</field>
     <field name="id">1778b100-867f-11e8-acae-35c197300100</field>
     <field name="priority">3</field>
-    <field name="pinned"></field>
     <field name="startTime">2018-09-05T00:05:00Z</field>
     <field name="status">trash</field>
     <field name="title">Yet another headline</field>

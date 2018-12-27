@@ -74,7 +74,7 @@
     <field name="title" type="string" indexed="true" stored="true" required="true"/>
     <field name="headlineOwner" type="string" indexed="true" stored="true" required="true"/>
     <field name="status" type="statusType" indexed="true" stored="true" required="true"/>
-    <field name="pinned" type="int" indexed="true" stored="true" required="true"/>
+    <field name="pinned" type="int" indexed="true" stored="true" required="false"/>
     <field name="priority" type="int" indexed="true" stored="true" required="true"/>
     <field name="startTime" type="pdate" indexed="true" stored="true" required="true"/>
     <field name="endTime" type="pdate" indexed="true" stored="true" required="true"/>
