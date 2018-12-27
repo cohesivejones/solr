@@ -88,7 +88,7 @@
     <field name="_version_" type="long" indexed="false" stored="false"/>
 
     <fieldType name="long" class="solr.LongPointField" docValues="true"/>
-    <fieldType name="int" class="solr.IntPointField" docValues="true"/>
+    <fieldType name="int" class="solr.IntPointField" docValues="true" sortMissingLast="true" />
     <fieldType name="string" class="solr.StrField" sortMissingLast="true" docValues="true" />
     <fieldType name="statusType" class="solr.EnumFieldType" enumsConfig="enumsConfig.xml" enumName="statusType" docValues="true"/>
 
