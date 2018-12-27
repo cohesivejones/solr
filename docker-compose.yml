@@ -10,3 +10,4 @@ services:
       - "8983:8983"
     volumes:
       - ./headlines:/opt/solr/server/solr/headlines/conf
+      - ./example-scenarios/migration-alias/new-schema:/opt/solr/server/solr/new-headlines-schema/conf
