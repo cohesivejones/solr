@@ -1,5 +1,5 @@
-# solr
-indexing data with Solr
+# Solr
+Sample code for indexing data with Solr
 
 1. Install docker for Mac
 2. Run docker-compose build
